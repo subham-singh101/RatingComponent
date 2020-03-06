@@ -9,7 +9,8 @@
 
 ## About <a name = "about"></a>
 
-Write about 1-2 paragraphs describing the purpose of your project.
+This component can be integrated with Angular and React JS Both as a rating components
+
 
 ## Getting Started <a name = "getting_started"></a>
 
@@ -31,7 +32,3 @@ go inside the directory
 
 `npm start`
 ```
-
-## Usage
-
-This component can be integrated with Angular and React JS Both as a rating components
