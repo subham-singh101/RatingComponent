@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=5.0">
+  <title>Stencil Component Starter</title>
+
+  <script type="module" src="/build/rating-stencil-component.esm.js"></script>
+  <script nomodule src="/build/rating-stencil-component.js"></script>
+  <script>
+    setTimeout(function() {
+      let myRatingComponent = document.getElementById("myRatingComponent");
+      myRatingComponent.value = 4;
+    }, 5000)
+  </script>
+</head>
+<body>
+  <my-rating-component id = "myRatingComponent" max-value="6" value="2"></my-rating-component>
+  <mouse-hover-rating max-value = "6" value = "2"></mouse-hover-rating>
+
+</body>
+</html>
