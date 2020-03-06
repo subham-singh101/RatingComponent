@@ -21,9 +21,7 @@ Javascript
 Typescipt
 NodeJs
 
-```
-Give examples
-```
+
 
 ### Installing
 
@@ -34,8 +32,6 @@ go inside the directory
 `npm start`
 ```
 
-End with an example of getting some data out of the system or using it for a little demo.
-
-## Usage <a name = "usage"></a>
+## Usage
 
 This component can be integrated with Angular and React JS Both as a rating components
